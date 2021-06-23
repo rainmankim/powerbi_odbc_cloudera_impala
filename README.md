@@ -6,17 +6,8 @@
 
 ## SAP-Excel Automation using Python
 ```
-Hi,  my name is Ray Kim. I am here to share my experience in SAP automation. 
-I am the furtherest thing from an expert but I hope my codes can help you.
-You can contact me at rainmankim@gmail.com for further details.
+aaaaaaaaaaaa
 
-This repository will explain how you can automate SAP log-in and execute T-code.
-If you can do that, you can easily figure out the rest, using Stefan's recorder.
-I am keeping things simple here to avoid confusion
-
-In this use-case, I am not using PyAutoGui or OpenCV.
-Those things can be used by all means.
-But Stefan's recorder shortens development time for SAP automation at zero cost.
 ```
 
 
