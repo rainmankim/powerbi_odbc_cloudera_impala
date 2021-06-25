@@ -8,13 +8,14 @@
 ```
 Hi, in this repository, I am going to show you how to connect PowerBI and Cloudera Datalake Hue Impala.
 Please go to Cloudera Websites to download ODBC connectors.
-In this documenteation, I will install Impala ODBC connector.
+
+First, install Impala ODBC connector.
 (HIVE is more robust for larger query but HIVE is slower than Impala.
-
-```
-
 https://www.cloudera.com/downloads/connectors/impala/odbc/2-6-0.html
 https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
+```
+
+
 
 
 
