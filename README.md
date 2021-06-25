@@ -16,8 +16,3 @@ aaaaaaaaaaaa
 <img align="center" src="https://user-images.githubusercontent.com/62319355/105824646-99659980-5ff9-11eb-9dcb-3cdbd9a4efbf.png" alt="SAP image">
 
 #### You might need to request your IT department to allow this.
-### (2) Download Stefan Schnell's SAP Script Recorder.
-#### SAP has a built-in recorder. But if you use that you will need to change the syntax to be used in Python.
-#### Using Stefan's Recorder generates Python-friendly syntax along with many other powerful features.
-<img align="center" src="https://user-images.githubusercontent.com/62319355/105824768-c3b75700-5ff9-11eb-881c-f25490c59efd.gif" alt="Tracker image">
-https://tracker.stschnell.de/
