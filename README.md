@@ -1,11 +1,11 @@
-# powerbi_odbc_cloudera_impala
+
 
 <img align="left" src="https://user-images.githubusercontent.com/62319355/123072323-0580e800-d448-11eb-87d2-0970736bef53.png" width="150" height="80" alt="PowerBI image">
 <img align="right" src="https://user-images.githubusercontent.com/62319355/105784475-dad35600-5fb3-11eb-8dc2-eb61292af5bc.png" width="150" height="80" alt="SAP image">
 
 
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
-## test
+# powerbi_odbc_cloudera_impala
 
 
 ```
