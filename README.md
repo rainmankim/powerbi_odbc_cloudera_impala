@@ -30,6 +30,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 ```diff
 + Now we will connect PowerBI to ODBC
 ```
-### AAAAAAAAAAAAA
+### Step 1. Choose ODBC as your data source
 <img align="center" src="https://user-images.githubusercontent.com/62319355/123384834-713d8f00-d5c7-11eb-9713-16f1103f896b.PNG"   alt="BBB">
+### Step 2. test
 
