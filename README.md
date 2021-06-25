@@ -6,7 +6,8 @@
 
 
 ```
-aaaaaaaaaaaa
+Hi, in this repository, I am going to show you how to connect PowerBI and Cloudera Datalake Hue Impala.
+
 
 ```
 
