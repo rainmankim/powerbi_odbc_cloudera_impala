@@ -28,6 +28,6 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 <img align="center" src="https://user-images.githubusercontent.com/62319355/104538259-7e3c7680-5656-11eb-84c0-0bb1ded086e1.png"   alt="SSL">
 
 ```diff
-+ Now we will connect PowerBI to ODBC
+ Now we will connect PowerBI to ODBC
 
 ```
