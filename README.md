@@ -27,3 +27,4 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 ### Please enable SSL Certifcate as shown below.
 <img align="center" src="https://user-images.githubusercontent.com/62319355/104538259-7e3c7680-5656-11eb-84c0-0bb1ded086e1.png"   alt="SSL">
 
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
