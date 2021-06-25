@@ -33,4 +33,5 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 ### Step 1. Choose ODBC as your data source
 <img align="center" src="https://user-images.githubusercontent.com/62319355/123384834-713d8f00-d5c7-11eb-9713-16f1103f896b.PNG"   alt="ODBC_step_1">
 <img align="center" src="https://user-images.githubusercontent.com/62319355/123385451-1f493900-d5c8-11eb-8bbf-684c29909483.PNG"   alt="ODBC_step_2">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/123386227-01300880-d5c9-11eb-9dc6-5ccf6d033699.PNG"   alt="ODBC_step_3">
 
