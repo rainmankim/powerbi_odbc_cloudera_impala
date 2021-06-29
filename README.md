@@ -40,6 +40,6 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 ### Once you have loaded the data, let's create some visuals 
 
 
-```
+```diff
 -it is going to take some time depending on your data source
 ```
