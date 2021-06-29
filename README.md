@@ -39,8 +39,8 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 <img align="center" src="httsadfasdfasdfasdfasdfsdafd033699.PNG"   alt="ODBC_step_3">
 
 ```diff
-- Make sure you only choose required columns. Otherwise, it might take forever to load data
-- It is going to take some time to load your data depending on the sources
+- Before you load the data, make sure you only choose required columns. Otherwise, it might take forever to load data
+- Still, it is going to take some time to load your data depending on the sources
 ```
 
 ### Once you have loaded the data, let's create some visuals 
