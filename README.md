@@ -41,5 +41,5 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 ```
-- *it is going to take some time depending on your data source*
+*it is going to take some time depending on your data source*
 ```
