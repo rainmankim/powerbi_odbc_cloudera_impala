@@ -35,11 +35,15 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 <img align="center" src="https://user-images.githubusercontent.com/62319355/123385451-1f493900-d5c8-11eb-8bbf-684c29909483.PNG"   alt="ODBC_step_2">
 <img align="center" src="https://user-images.githubusercontent.com/62319355/123386227-01300880-d5c9-11eb-9dc6-5ccf6d033699.PNG"   alt="ODBC_step_3">
 
+### Transform your data and load the data
+<img align="center" src="httsadfasdfasdfasdfasdfsdafd033699.PNG"   alt="ODBC_step_3">
 
+```diff
+- Make sure you only choose required columns. Otherwise, it might take forever to load data
+-it is going to take some time to load your data depending on the sources
+```
 
 ### Once you have loaded the data, let's create some visuals 
 
 
-```diff
--it is going to take some time to load your data depending on the sources
-```
+
