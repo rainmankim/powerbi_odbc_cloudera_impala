@@ -40,7 +40,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 ```diff
 - Make sure you only choose required columns. Otherwise, it might take forever to load data
--it is going to take some time to load your data depending on the sources
+- It is going to take some time to load your data depending on the sources
 ```
 
 ### Once you have loaded the data, let's create some visuals 
