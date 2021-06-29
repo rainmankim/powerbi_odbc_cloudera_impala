@@ -36,7 +36,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 <img align="center" src="https://user-images.githubusercontent.com/62319355/123386227-01300880-d5c9-11eb-9dc6-5ccf6d033699.PNG"   alt="ODBC_step_3">
 
 ### Transform your data and load the data
-<img align="center" src="httsadfasdfasdfasdfasdfsdafd033699.PNG"   alt="ODBC_step_3">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/123821992-77689e00-d92e-11eb-9ac1-ba4e2c65da50.PNG"   alt="ODBC_step_3">
 
 ```diff
 - Before you load the data, make sure you only choose required columns. Otherwise, it might take forever to load data
