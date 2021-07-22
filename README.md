@@ -44,7 +44,7 @@ Otherwise, it might take forever to load data
 - Still, it is going to take some time to load your data depending on the sources
 ```
 
-### Once you have loaded the data, let's create some visuals 
+### Once you have loaded the data, you can proceed to create visuals
 
-
+# The END
 
