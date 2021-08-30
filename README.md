@@ -29,6 +29,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 #### If you see an error message as shown above, you can clear data source settings by following the steps below
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127885756-34cc61f6-1cff-498a-a1e2-c70dcfb2f92f.png" width="450"  alt="Excel logo">
 <img align="center" src="https://user-images.githubusercontent.com/62319355/127885767-ec8412ff-5e66-4274-b56a-ba7569bdb6e9.png" width="450"  alt="Excel logo">
+
 #### Now let us return to the main topic
 
 
