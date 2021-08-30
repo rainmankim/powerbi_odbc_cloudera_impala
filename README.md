@@ -55,7 +55,7 @@ Otherwise, it might take forever to load data
 
 
 # Option 2. Impala Method
-
+### Choose Impala as your data source
 
 
 
