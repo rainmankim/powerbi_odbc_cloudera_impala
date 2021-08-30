@@ -68,5 +68,10 @@ Otherwise, it might take forever to load data
 <img align="center" src="https://user-images.githubusercontent.com/62319355/131309178-2ad5097f-3080-4d14-8c0a-571e364e9ec1.PNG" width="450"  alt="Impala">
 
 
+### Input the url address of Impala server
+<img align="center" src="https://user-images.githubusercontent.com/62319355/131309aa7f-3080-4d14-8c0a-571e364e9ec1.PNG" width="450"  alt="Impala">
+
+
+
 # The END
 
