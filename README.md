@@ -25,7 +25,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 
 
 
-# Option 1 ODBC-based Method
+# Option 1. ODBC-based Method
 ### ODBC-based method has embedded impala connection
 
 ### You can establish connection as shown below  :thumbsup:
@@ -54,7 +54,7 @@ Otherwise, it might take forever to load data
 ### Once you have loaded the data, you can proceed to create visuals
 
 
-# Option 2 Impala Method
+# Option 2. Impala Method
 
 
 
