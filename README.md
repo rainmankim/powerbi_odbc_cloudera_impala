@@ -53,5 +53,11 @@ Otherwise, it might take forever to load data
 
 ### Once you have loaded the data, you can proceed to create visuals
 
+
+# Option 2 Impala Method
+
+
+
+
 # The END
 
