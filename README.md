@@ -65,7 +65,7 @@ Otherwise, it might take forever to load data
 
 # Option 2. Impala Method
 ### Choose Impala as your data source
-
+<img align="center" src="https://user-images.githubusercontent.com/62319355/127885767-ec8412ff-5e66-4274-b56a-ba7569bdb6e9.png" width="450"  alt="Impala">
 
 
 # The END
