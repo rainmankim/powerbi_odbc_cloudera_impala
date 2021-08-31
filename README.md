@@ -72,7 +72,7 @@ Otherwise, it might take forever to load data
 #### you might want to ensure that the url does not contain leading "https://"
 <img align="center" src="https://user-images.githubusercontent.com/62319355/131434698-51ba28ad-1dd7-4ef1-be3a-5492b751574a.png" width="450"  alt="Impala">
 
-### CCCCCCCCCCCC
+### Use Windows Credential
 <img align="center" src="https://user-iaaaaaaaarcontent.com/62319355/131309178-2ad5097f-3080-4d14-8c0a-571e364e9ec1.PNG" width="450"  alt="Impala">
 
 
