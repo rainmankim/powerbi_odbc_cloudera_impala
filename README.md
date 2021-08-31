@@ -85,7 +85,7 @@ Otherwise, it might take forever to load data
 - Still, it is going to take some time to load your data depending on the sources
 - (Optional) Write custom SQL query to aggregate data  (or try incremental load)
 ```
-![image](https://user-images.githubusercontent.com/62319355/131435723-7831b12a-80b2-45dc-bc05-7be7523784e5.png)
+![image](https://user-images.githubusercontent.com/62319355/131436026-386aec8b-a432-4620-8ee8-9c14362bd750.png)
 
 
 
