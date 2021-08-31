@@ -58,6 +58,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 - Before you load the data, make sure you only choose required columns. 
 Otherwise, it might take forever to load data
 - Still, it is going to take some time to load your data depending on the sources
+- (Optional) Write custom SQL query to aggregate data  (or try incremental load)
 ```
 
 ### Once you have loaded the data, you can proceed to create visuals
@@ -75,14 +76,15 @@ Otherwise, it might take forever to load data
 ### Use Windows Credential
 <img align="center" src="https://user-images.githubusercontent.com/62319355/131435091-986fa3f1-16ab-4c76-9d2d-a037a4af686e.png" width="450"  alt="Impala">
 
+
+
+### Once you have loaded the data, you can proceed to create visuals
 ```diff
 - Before you load the data, make sure you only choose required columns. 
 Otherwise, it might take forever to load data
 - Still, it is going to take some time to load your data depending on the sources
+- (Optional) Write custom SQL query to aggregate data  (or try incremental load)
 ```
-
-### Once you have loaded the data, you can proceed to create visuals
-
 ![image](https://user-images.githubusercontent.com/62319355/131435723-7831b12a-80b2-45dc-bc05-7be7523784e5.png)
 
 
