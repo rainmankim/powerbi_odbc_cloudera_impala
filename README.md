@@ -75,8 +75,9 @@ Otherwise, it might take forever to load data
 ### Use Windows Credential
 <img align="center" src="https://user-images.githubusercontent.com/62319355/131435091-986fa3f1-16ab-4c76-9d2d-a037a4af686e.png" width="450"  alt="Impala">
 
+![image](https://user-images.githubusercontent.com/62319355/131435723-7831b12a-80b2-45dc-bc05-7be7523784e5.png)
 
-![image](https://user-images.githubusercontent.com/62319355/131435630-51b7ba13-90ab-4608-a8a9-5f84a3adf7c9.png)
+
 
 
 # The END
