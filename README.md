@@ -70,7 +70,7 @@ Otherwise, it might take forever to load data
 
 ### Input the url address of Impala server
 #### you might want to ensure that the url does not contain leading "https://"
-<img align="center" src="https://user-images.githubusercontent.com/62319355/131314256-e3bb4b8c-8dc1-4d63-8a82-4fa1812e728b.PNG" width="450"  alt="Impala">
+<img align="center" src="https://user-images.gaaaaaausercontent.com/62319355/131314256-e3bb4b8c-8dc1-4d63-8a82-4fa1812e728b.PNG" width="450"  alt="Impala">
 
 ### CCCCCCCCCCCC
 <img align="center" src="https://user-iaaaaaaaarcontent.com/62319355/131309178-2ad5097f-3080-4d14-8c0a-571e364e9ec1.PNG" width="450"  alt="Impala">
