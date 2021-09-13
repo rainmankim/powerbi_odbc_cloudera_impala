@@ -38,7 +38,7 @@ https://www.cloudera.com/downloads/connectors/hive/odbc/2-6-1.html
 ### ODBC-based method has embedded impala connection
 
 ### You can establish connection as shown below  :thumbsup:
-<img align="center" src="https://user-images.githubusercontent.com/62319355/104537551-22252280-5655-11eb-9ea0-4de6e27e0114.png" width="450"  alt="ODBC impala">
+<img align="center" src="https://user-images.githubusercontent.com/62319355/133048436-24c46bc4-3954-4930-9777-98912175a8b1.PNG" width="450"  alt="ODBC impala">
 
 ### Please enable SSL Certifcate as shown below.
 <img align="center" src="https://user-images.githubusercontent.com/62319355/104538259-7e3c7680-5656-11eb-84c0-0bb1ded086e1.png"   alt="SSL">
