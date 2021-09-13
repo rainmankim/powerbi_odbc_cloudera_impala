@@ -3,6 +3,8 @@
 <img align="left" src="https://user-images.githubusercontent.com/62319355/123072323-0580e800-d448-11eb-87d2-0970736bef53.png" width="150" height="80" alt="PowerBI image">
 <img align="right" src="https://user-images.githubusercontent.com/62319355/123382025-063e8900-d5c4-11eb-91bd-d22fa3213253.jpg" width="150" height="80" alt="cloudera logo">
 
+##### Updated on 2021-09-13
+
 
 :smile: :grinning: :sleepy: :relieved: :confused: :open_mouth: :astonished: :thumbsup:
 # powerbi_odbc_cloudera_impala
