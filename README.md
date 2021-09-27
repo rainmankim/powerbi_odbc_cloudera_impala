@@ -91,6 +91,9 @@ Otherwise, it might take forever to load data
 
 
 
+### Next, when you publish your work onto PowerBI Service, you will have to set up configurations correctly to ensure data is refreshed correctly
+### BUT BECUZ I am lazy... I will update this part later on
+
 
 # The END
 
